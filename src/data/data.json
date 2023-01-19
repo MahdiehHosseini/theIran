@@ -1,0 +1,147 @@
+[
+    {
+        "name": "Damavand Mount",
+        "location": ["Tehran", "Tehran"],
+        "description": "a mount in tehran with 5,609 m hight",
+        "imgUrl": "/src/assets/images/damavand.jpg",
+        "collection": "Nature",
+        "explonation": "Damavand Mountain is located in the central part of the Alborz mountain range in the south of the Caspian Sea.\n From the point of view of country divisions, this peak is located in Larijan section of Amol city in Mazandaran province. \nhis mountain was registered in the list of national monuments on July 13, 2008 as the first natural monument of Iran.\nAlso, Damavand Peak has been one of the four valuable regions in terms of environmental protection since 2002 as a national natural monument. Damavand Mountain has been a symbol of greatness and glory for Iranians and has long played a significant role in the literature and history of the country and in Persian mythology. \nThis mountain has always been mentioned.\n",
+        "key": "01"
+    },{
+        "name": "Hafez Tomb",
+        "location": ["Fars", "Shiraz"],
+        "description": "The tomb of one of the best iranian poets",
+        "imgUrl": "/src/assets/images/Hafez Tomb.jpg",
+        "collection": "Historical",
+        "explonation": "Khajeh Shams al-Din Mohammad Hafez Shirazi, known as the language of the unseen, the translator of the mysteries and the language of the mystics, is a great poet of the eighth century Iran and one of the famous speakers in the world, whose sonnets are well-known and special.\n He has a special place among Iranians due to his mystical poems and many people often refer to Hafiz in times of nostalgia or on many ancient occasions such as Yalda night. \n",
+        "key": "02"
+    },{
+        "name": "Azadi Tower",
+        "location": ["Tehran", "Tehran"],
+        "description": "one of the landmarks and a part of the Azadi Cultural Complex",
+        "imgUrl": "/src/assets/images/azadi.jpg",
+        "collection": "Famos",
+        "explonation": "Azadi Tower is the first symbol of Tehran that was built many years before Milad Tower and many still consider it the main symbol of the Iranian capital. This beautiful building, which is considered one of the masterpieces of contemporary Iranian architecture, was built between 1348 and 1350 by Hossein Amanat to commemorate the 2500th anniversary of the empire. \nFreedom Tower is a combination of Achaemenid, Sassanid and Islamic architecture; So that the oval arch of the tower is a symbol of Kasra arch and turquoise tiles from the Safavid period and the top grooves of the tower are adapted from Yazd windbreaks, which along with the symbols of modern architecture and concrete structure, have given the tower a double charm.\n",
+        "key": "03"
+    },{
+        "name": "Bam Citadel",
+        "location": ["Kerman", "Bam"],
+        "description": "the largest adobe building in the world",
+        "imgUrl": "/src/assets/images/arge bam.jpg",
+        "collection": "Historical",
+        "explonation": "Bam Citadel is one of the most famous attractions of Kerman province, in the southeast of Lut desert.\nThis brick structure has a unique architecture and shows a spectacular example of the defense structure in Iran; A structure that has historically protected the eastern regions of Iran like a strong fence.\nBam Citadel was the largest brick structure in the world before the 2003 earthquake. \nFortunately, the restoration project of Bam Citadel did not allow this complex to be removed from the UNESCO list, and now this structure is one of the most visited places in Bam. \nBam Citadel is an ancient city with a series of tall buildings dating back to 2500 years ago, which is divided into serfdom and government.\nThe citadel is about 18,000 square meters and is surrounded by walls 6 to 7 meters high. \n",
+        "key": "04"
+    },{
+        "name": "Burnt City",
+        "location": ["Sistan O Baloochestan", "Zabol"],
+        "description": "It is 5,000 years old and one of the oldest civilizations in the world",
+        "imgUrl": "/src/assets/images/burnt city.jpg",
+        "collection": "Historical",
+        "explonation": "The burnt city is based on archeological findings dating back 5,000 years to the world's oldest civilizations. This attraction is located in high hills with a height of 12 to 18 km and between the rivers Hamoon and Helmand. On a trip to this area, you will encounter a large desert museum with a treasure hidden in every corner.\nShahr-e Sokhteh was one of the largest cities in ancient Iran and one of the most important civilizations on the east of the Iranian plateau.\nIt is also mentioned for its outstanding scientific discoveries, especially in the field of medicine (such as the artificial eye, the ebony wood line, the old backgammon board with 60 beads).",
+        "key": "05"
+    },{
+        "name": "Imam Reza Holy shrine",
+        "location": ["Khorasan Razavi", "Mashhad"],
+        "description": "Holy shrine of Imam Reza",
+        "imgUrl": "/src/assets/images/imam reza.jpg",
+        "collection": "Religious",
+        "explonation": "The shrine of Imam Reza (AS) is one of the most famous tourist attractions in Mashhad and Iran.\nEvery year, millions of pilgrims from Iran and the world go to Mashhad to visit Shah Khorasan, and a large number of Mashhad tours are held for domestic and foreign tourists in this holy city.\nThe shrine of Ali Ibn Musa al-Reza (AS) has been changed and developed many times throughout history.\n It is noteworthy that according to historical narrations, he personally determined the location of the Razavi shrine during his trip to Merv. \n",
+        "key": "06"
+    },{
+        "name": "Anzali Wetland",
+        "location": ["Gilan", "Bandar Anzali"],
+        "description": "on of the beautiful places",
+        "imgUrl": "/src/assets/images/talab anazali.jpg",
+        "collection": "Nature",
+        "explonation": "Gilan Anzali Wetland or 'Anzali Sol' in Gilaki language is one of the most beautiful and important natural freshwater wetlands in the southwest of Bandar Anzali and the Caspian Sea.\n It is one of the most popular nature tourism destinations in Gilan province.\nWater lilies, reeds and sea tulips create an amazing view of the lagoon that you will not be satisfied with.\n Boating, fishing and bird watching are some of the most popular pastimes in the area.",
+        "key": "07"
+    },{
+        "name": "Latoon Falls",
+        "location": ["Gilan", "Gilan"],
+        "description": "The highest falls in iran",
+        "imgUrl": "/src/assets/images/latoon falls.jpg",
+        "collection": "Nature",
+        "explonation": "Gilan province with its nature and many spectacular attractions, is one of the most popular destinations among tourists and travelers.\nOne of the most famous sights of Gilan is a high and beautiful waterfall with a height of 105 meters, which has been named as one of the tallest waterfalls in Iran.\n This waterfall is called Laton and in the local dialect Barzawa. \n",
+        "key": "08"
+    },{
+        "name": "Bistoon",
+        "location": ["Kermanshah", "Kermanshah"],
+        "description": "At the 2006 census, its population was 2,075, in 527 families",
+        "imgUrl": "/src/assets/images/bistoon.jpg",
+        "collection": "",
+        "explonation": "Biston complex with an area of ​​1,650 hectares, a large number of historical monuments such as Hunters Cave, Mar Dodar Cave, Sarab Biston, Mor Tarik Cave, Madi shrine, Sang Blash, Mehrdad Ashkani, Goodarz, Hercules, Farhad Erashan, Kar It is home to Paul Biston, etc. and is one of the most important archeological sites in Iran.\nOne of the most important works in this collection is the inscription and carved relief of Darius, which is on the UNESCO World Heritage List.\nThe artifacts discovered in Biston date back to about four thousand years ago and continue until a few hundred years ago; A treasure whose 28 works have been registered as national works of Iran so far.\nIn the historic complex of Biston, there are facilities such as parking, bathroom, prayer hall, handicraft booth and souvenir shopping, restaurant and pantry for the well-being of tourists. \n",
+        "key": "09"
+    },{
+        "name": "Babak Castle",
+        "location": ["Azarbayjan Sharqi", "Kalibar"],
+        "description": "a castle in 2300 high",
+        "imgUrl": "/src/assets/images/babak castle.jpg",
+        "collection": "Historical",
+        "explonation": "Laleh Babak is a historical fortress 13 km from the city of Kalibar in the East Azarbaijan province. Babak Castle was built during the Sassanid era.\n When the Abbasids invaded the area, Babak Khorramdin took over the leadership of the people and fought the invaders for 20 years in this fort.\nBabak Castle is also known as Jomhor Castle and Baz Castle. This historic fortress was built on a mountain at an altitude of 2300 meters.\n The way to reach Babak Castle passes through a steep and steep path in the heart of the mountains.\nAlthough you have to work hard to reach the fortress, the pleasure of walking this route with views of the lush nature of Azerbaijan is no less than the pleasure of reaching the fortress itself. In the middle of the path there is a spring whose cool water will delight your being.\nBabak Castle is hidden among the soaring mountains and foggy hills and the pristine forests of Arasbaran have given a special natural beauty to this area.\nIf you visit this castle in summer, you will encounter the tents of the Shahsoon tribe. Warm people with a short break will have the opportunity to stare at the unique view of nature.\nAfter reaching the top of the castle, you will understand why it was difficult to conquer this castle.\n Ainaloo tourist area is one hour away from Babak castle and if you are lucky, you can see maral and wild deer up close.\n",
+        "key": "10"
+    },{
+        "name": "Hazrat Masoumeh Holy shrine",
+        "location": ["Qom", "Qom"],
+        "description": "Holy shrine of Hazrat Masoumeh(s)",
+        "imgUrl": "/src/assets/images/hazrat masoumeh.jpg",
+        "collection": "Religious",
+        "explonation": "The shrine of Imam Masoumeh (AS) is one of the most important sights of Qom, which is known as the second most important religious attraction in Iran after the shrine of Imam Reza (AS). This shrine is the burial place of famous and important figures in the history of Iran such as Parvin Etesami, Shahid Motahari, Allameh Tabatabai, Ayatollah Behjat and a number of Safavid and Qajar kings that you can visit next to the shrine of Imam Masoumeh (AS).\nIn addition, the Faizieh School in Qom, which is considered one of the oldest historical schools in the country, is located on this holy threshold. The most spectacular decorations of the shrine, from tiles to mirrors, are delicate for any viewer; But that's not all, and its spectacular museum allows you to watch the finest silk rugs, calligraphies, and more.\n",
+        "key": "11"
+    },{
+        "name": "Shushtar Water Mills",
+        "location": ["Khuzestan", "Shooshtar"],
+        "description": "A collection of the most unique engineering structures in the world",
+        "imgUrl": "/src/assets/images/shushtar water mills.jpg",
+        "collection": "Historical",
+        "explonation": "The historical, industrial and economic complex of Shousha water mills is adjacent to the historical context of Shushtar; A complex that is one of the most unique engineering structures in the world dating back to the Sassanid era.\nThe construction of this magnificent structure is attributed to kings such as Ardashir I and Shapur\nShushtar complex of water structures includes various sections such as bridges, dams, mills, waterfalls, canals, sika (a place for rest and recreation) and huge water tunnels. Each of the structures of this complex has its own function and application.\nIn the past, this structure supplied water equally to the whole city and prevented the eruption of the Karun River; In addition, he was responsible for irrigating agricultural lands and operating mill cycles to produce wheat flour.\n",
+        "key": "12"
+    },{
+        "name": "Maharloo Lake",
+        "location": ["Fars", "Shiraz"],
+        "description": "pink lake",
+        "imgUrl": "/src/assets/images/maharloo lake.jpg",
+        "collection": "Nature",
+        "explonation": "The strangest tourist attraction of Shiraz is Maharloo Lake.\nThe amazing thing about this lake is its color.\nThe lake turns red in the midddle of summer besause evaporation and salt cause the algae to dye,which will color you with a colorful temperature.\nThe combination of white salt and red lake color has created a magical harmony for domestic and foreign tourists.\nThis lake is a haven of faith for birds, especially flamingos.\nPeach Lake is located 57 km from Shiraz to Fasa road and near a village of the same name.\nVisiting the lake, you can also visit the orchards full of almond, fig and pomegranate trees in Tavanailloo village.\n",
+        "key": "13"
+    },{
+        "name": "Nasir Al-Molk Mosque",
+        "location": ["Fars", "Shiraz"],
+        "description": "pink mosque",
+        "imgUrl": "/src/assets/images/pink mosque.jpg",
+        "collection": "Religious",
+        "explonation": "Mosques are one of the sights of Iran and many beautiful mosques have been built throughout Iran.\nBut perhaps the most beautiful mosque in Iran is located in Shiraz, in the neighborhood of Good Arab (Lotfali Khan Zand Street).\nNasir al-Molk Mosque was built near the tomb of Shahcheragh during the Qajar period. The pink color of the tiles and glass has made this place known as the Pink Mosque.\n. The lighting and eye-catching architecture of this mosque have created a mystical atmosphere.\nIf you want to watch the peak of Iranian art, all you have to do is go to the mosque at 7 in the morning.\nSeeing the pictures of this mosque tempts everyone to travel to the city of Baharnarange in Iran to see it.\n The construction of this building took 12 years and each of the courtyards, porches, and naves of your mosque will amaze you with their beauty.\n",
+        "key": "14"
+    },{
+        "name": "Eram Garden",
+        "location": ["Fars", "Shiraz"],
+        "description": "a big wonderfull graan garden",
+        "imgUrl": "/src/assets/images/eram garden.jpg",
+        "collection": "Nature",
+        "explonation": "Eram Garden is one of the tourist attractions of Shiraz and is an example of a garden-pavilion which is very popular among tourists due to its citrus trees and a long street with magnificent cedars on its sides.\nIn addition to the main pavilion of the Qajar era, which forms the central core of this garden; The tall and ancient headdresses have doubled its beauty.\nEram Garden of Shiraz with an area of 110,380 square meters was nationally registered on November 5, 1974.\n",
+        "key": "15"
+    },{
+        "name": "Takht Jamshid",
+        "location": ["Fars", "Shiraz"],
+        "description": "on of the popular historical places",
+        "imgUrl": "/src/assets/images/takht jamshid.jpg",
+        "collection": "Historical",
+        "explonation": "Persepolis, a symbol of glory in ancient Iran, is one of the most important documents in the history of civilization in the world and a relic of Achaemenid kings from 2500 years ago in Iran.\nIn general, the buildings and palaces of Persepolis complex have been built in the middle flat area and the south, southwest and east sides of this area. The entrance is a paved staircase complex that leads to a larger space.\nGate Palace of Nations with high brick walls and four tall pillars, Persepolis treasury, hundred-column palace or throne hall, Khashayar Shah or Hadish palace, 'H' palace, three-door or central palace, Bar or Apadana palace, Darius's palace or Thatcher and the royal tombs and of course the Persepolis Museum are among the most important sights of Persepolis.\n It is interesting to know that slavery was prevalent in other great empires of the world at the same time as the construction of huge palaces in Persepolis; But in Iran and in the seat of the Achaemenid government, the workers were insured and enjoyed various benefits.",
+        "key": "16"
+    },{
+        "name": "Naqsh Jahan Square",
+        "location": ["Esfehan", "Esfehan"],
+        "description": "It is 160 metres wide by 560 metres long",
+        "imgUrl": "/src/assets/images/naqsh jahan.jpg",
+        "collection": "",
+        "explonation": "Naghsh Jahan Square or Imam Square is one of the most beautiful places in Isfahan with a length of more than 500 meters and a width of 160 meters. \nThe square is surrounded by 200 rooms on two floors and four prominent historical monuments in different parts of it dazzle the eyes. Shah Abbas Safavid, with the aim of expanding the city to its southern part on the outskirts of Zayandehrood, established the original building of this square in the style of Iranian square architecture.\nThe basic foundation of the current shape of Imam Square was built in 1011 AH and gradually the construction of the square and its buildings was completed by 1025.\nAbbasi Mosque, Sheikh Lotfollah Mosque, Aali Qapo Mansion, Qaisaria Gate and handicraft sales centers and two old polo gates are some of the sights of Naghsh Jahan Square in Isfahan.\nAmong the most popular tourist activities in this attraction, we can mention visiting historical sights, hiking and carriage riding, photography, going to cafes and restaurants, shopping and buying souvenirs.\n",
+        "key": "17"
+    },{
+        "name": "Khajoo Bridge",
+        "location": ["Esfehan", "Esfehan"],
+        "description": "one of the historical bridges",
+        "imgUrl": "/src/assets/images/khajoo bridge.jpg",
+        "collection": "",
+        "explonation": "Khajoo Bridge is one of the historical and beautiful bridges of Isfahan, which in its time was considered one of the most beautiful bridges in the world. \nWalking on this bridge, especially in the evening and early night, is one of the most enjoyable activities that tourists include in their program.\n  Also, its historical and architectural value is such that it has always been one of the main attractions in Isfahan tours.\nThis bridge, which is one of the sights of Isfahan and the journey to half of the world is not complete without seeing it, in addition to its beauty, has secrets and wonders that make many people step on this bridge with a microscopic look and understand it with all their being.",
+        "key": "18"
+    }
+]
