@@ -1,5 +1,14 @@
+<script setup lang="ts">
+import type { Place } from '../../../types/PlaceType'
+
+defineProps<{
+    place?: Place,
+    index?: number
+}>()
+</script>
+
 <template>
-        <div class="wow lg:static lg:w-auto reletive md:w-full animate__fadeInUp animate__animated flex relative xl:mr-36 xl:-mt-32 flex-col items-center justify-center m-10 mb-28" :class="[ (index % 2 === 1) ? 'xl:items-start' : 'xl:items-end' ]">
+        <div class="wow lg:static lg:w-auto reletive md:w-full animate__fadeInUp animate__animated flex relative xl:mr-36 xl:-mt-32 flex-col items-center justify-center m-10 mb-28" :class="[ (index !== undefined && index % 2 === 1) ? 'xl:items-start' : 'xl:items-end' ]">
             <div>
                 <router-link :to="{name : 'place page' , params:{ placeName : place?.name }}">
                     <div class="bg-white md:pr-22 md:h-72 md:mt-12 card-md border rounded-3xl xl:pr-20 w-72 h-96 shadow-xl hover:shadow-2xl m-7">
@@ -16,13 +25,3 @@
             </div>
         </div>
 </template>
-<script lang="ts" >
-import { PropType } from 'vue'
-import type { Place } from './../../../interfaces/interfaces'
-export default {
-    props: {
-        place: {} as PropType<Place>,
-        index: Number
-    }
-}
-</script>

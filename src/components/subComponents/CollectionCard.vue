@@ -1,3 +1,21 @@
+<script setup lang="ts">
+import { ref, onMounted } from 'vue'
+import LoadingLand from '../mainComponents/LoadingLand.vue'
+import type { Place } from '../../types/PlaceType.js'
+import placesData from '../../data/data.json'
+
+const props = defineProps<{
+    collection?: string
+}>()
+
+const twoPlace = ref<Place[]>([])
+
+onMounted(() => {
+    const collectionCards = (placesData as Place[]).filter(place => place.collection === props.collection)
+    twoPlace.value = collectionCards.length >= 2 ? [collectionCards[0], collectionCards[1]] : [collectionCards[0]]
+})
+</script>
+
 <template>
         <div v-if="twoPlace" class=" w-80 m-5 md:scale-105 mt-16 wow animate__fadeInUp animate__animated">
             <router-link :to="{name : 'collection page' ,params : { collectionName: collection}}">
@@ -28,32 +46,5 @@
                 </div>
             </div>
         </div>
-    <Loading-land v-else></Loading-land>
+    <LoadingLand v-else></LoadingLand>
 </template>
-
-<script lang="ts" >
-import LoadingLand from './../mainComponents/LoadingLand.vue'
-import { Place } from '../../interfaces/interfaces'
-export default {
-    props: {
-        collection: String
-    },
-    components:{
-        LoadingLand
-    },
-    data() {
-        return {
-            twoPlace : [] as Place[]
-        }
-    },
-    mounted() {
-        fetch('./../../../src/data/data.json')
-        .then(res => res.json())
-        .then(data => {
-            const collectionCards = data.filter((place: Place) => place.collection === this.collection)
-            this.twoPlace = collectionCards.length >= 2 ? [collectionCards[0],collectionCards[1]] : [collectionCards[0]]
-        })
-        .catch(err => console.log(err.message))
-    }
-}
-</script>
