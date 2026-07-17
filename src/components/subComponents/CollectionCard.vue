@@ -3,6 +3,7 @@ import { ref, onMounted } from 'vue'
 import LoadingLand from '../mainComponents/LoadingLand.vue'
 import type { Place } from '../../types/PlaceType.js'
 import placesData from '../../data/data.json'
+import { resolveImage } from '../../utils/resolveImage'
 
 const props = defineProps<{
     collection?: string
@@ -27,7 +28,7 @@ onMounted(() => {
                 <ul class="bg-white">
                     <router-link v-for="place in twoPlace" :key="place.key" :to="{name:'place page',params : { placeName:place.name}}">
                         <li class="flex items-center shadow-sm">
-                            <img class="hover:scale-110 hover:duration-200 m-4 h-24 w-24 rounded-xl" :alt="place.name + ' image'" :src="place.imgUrl">
+                            <img class="hover:scale-110 hover:duration-200 m-4 h-24 w-24 rounded-xl" :alt="place.name + ' image'" :src="resolveImage(place.imgUrl)">
                             <div class="m-5">
                                 <h4 class="text-xl mb-1.5">{{place.name}}</h4>
                                 <p class="text-neutral-600 text-base">{{place.location[0]}}</p>

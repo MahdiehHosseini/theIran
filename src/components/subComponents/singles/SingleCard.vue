@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import type { Place } from '../../../types/PlaceType'
+import { resolveImage } from '../../../utils/resolveImage';
 
 defineProps<{
     place?: Place,
@@ -20,7 +21,7 @@ defineProps<{
                     </div>
                 </router-link>
                 <div class="md:block flex justify-center md:w-1/4 md:float-right">
-                    <img class=" rounded-2xl w-48 absolute md:top-20 top-80 h-48 shadow-xl hover:shadow-2xl" :alt="place?.name + ' image'" :src="place?.imgUrl">
+                    <img class=" rounded-2xl w-48 absolute md:top-20 top-80 h-48 shadow-xl hover:shadow-2xl" :alt="place?.name + ' image'" :src="resolveImage(place?.imgUrl)">
                 </div>
             </div>
         </div>

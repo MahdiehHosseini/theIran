@@ -2,10 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 body {
-    background: url(/public/images/main-bg.png);
+    background: url(./assets/images/main-bg.png);
 }
 .header-bg {
-    background: url(/public/images/home-page.jpg) border-box no-repeat;
+    background: url('./assets/images/home page.jpg') border-box no-repeat;
     background-size: cover;
     height: 60em;
 }
