@@ -5,7 +5,7 @@ body {
     background: url(/public/images/main-bg.png);
 }
 .header-bg {
-    background: url(/public/images/home\ page.jpg) border-box no-repeat;
+    background: url(/public/images/home-page.jpg) border-box no-repeat;
     background-size: cover;
     height: 60em;
 }
